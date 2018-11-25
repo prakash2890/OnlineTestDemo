@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineTest", "OnlineTest\OnlineTest.csproj", "{08601791-60D9-4312-B2B4-178EE215A5FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08601791-60D9-4312-B2B4-178EE215A5FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08601791-60D9-4312-B2B4-178EE215A5FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08601791-60D9-4312-B2B4-178EE215A5FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08601791-60D9-4312-B2B4-178EE215A5FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E720E12C-8245-4407-BC86-4BEB43D01370}
+	EndGlobalSection
+EndGlobal
